@@ -1,8 +1,8 @@
 # resume_app
 
-A new Flutter application.
+简历专家原型。
 
-## Getting Started
+## 版本历史
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+* s2，增加底部导航条的最简单版本
+* s1，可运行的空项目
